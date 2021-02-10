@@ -1,6 +1,6 @@
 # ebook_apps
 <p>
-    <img src="./screenshoot/screenshoot1.png" height="600" width="300">
+    <img src="./screenshoot/screenshoot1.png" height="500" width="300">
 </p>
 A new Flutter project.
 
