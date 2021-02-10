@@ -1,13 +1,7 @@
 # ebook_apps
-
-![screenshoot1](./screenshoot/screenshoot1.png)
-![screenshoot2](./screenshoot/screenshoot2.png)
-![screenshoot3](./screenshoot/screenshoot3.png)
-![screenshoot4](./screenshoot/screenshoot4.png)
-![screenshoot5](./screenshoot/screenshoot5.png)
-![screenshoot6](./screenshoot/screenshoot6.png)
-
-
+<p>
+    <img src="./screenshoot/screenshoot1.png" height="600" width="300">
+</p>
 A new Flutter project.
 
 ## Getting Started
